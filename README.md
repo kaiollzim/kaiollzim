@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**kaiollzim/kaiollzim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My surname is Kain. I'm from 🇧🇷 . I'm a programming enthusiast, study on Front-End, UI/UX Design and a little bit of Back-end, and pentester in free times. 👨‍💻
 
-Here are some ideas to get you started:
+I am passionate about solving problems and learning, Always open to new challenges and ready to face change. 
+Love the concept of **servers**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently study for *medicine* 🩺
+
+#### ⏳ Escolher o seu tempo é ganhar tempo. 🧠
+
+ - 💻 Front-End
+ - 🎨 UI/UX
+ - 🐱‍💻 Pentester
+
+Find my on [Discord](https://discord.com):
+Kain#8582
+
+![enter image description here](https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif)
