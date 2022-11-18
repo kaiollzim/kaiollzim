@@ -1,10 +1,7 @@
 <div>
   <h1 align="center">Pleased to meet you! I'm <a href="https://github.com/kaiollzim"><i>Kain</i></a> 😶‍🌫️</h1>
-  <p align="center">💻 I'm a Student of ----. But I'm very interested in IT-development, so I spend a lot of my free time studying it.
+  <p align="center">💻 I'm a Student of a Preparatory Medicine Course. But I'm very interested in IT-development, so I spend a lot of my free time studying it.
   <p align="center">Full Stack, Pentester (when I can), and Design lover</h2>
-  <p align="center">📅 2020: -Completed Programming course in Udemy: Programming plugins for Minecraft</h2>
-  <p align="center">📅 2020: -Completed Programming course in Udemy: Professional Ethical Hacker</h2>
-  <p align="center">📅 2021: -Completed Programming course in Udemy: Complete Web Development</h2>
 </div>
 
 <div align="center">
