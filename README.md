@@ -38,3 +38,5 @@
   <p>Made with :heart: and JavaScript.</p>
   <p>By: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
+                                                                                                                                   
+[![@kaiollzim's Holopin board](https://holopin.me/kaiollzim)](https://holopin.io/@kaiollzim)
