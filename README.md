@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Pleased to meet you! I'm <a href="https://github.com/kaiollzim"><i>Kain</i></a> 😶‍🌫️</h1>
+  <h1 align="center">Pleased to meet you! I'm <a href="https://github.com/kaiollzim"><i>Kaio</i></a> 😶‍🌫️</h1>
   <p align="center">💻 I'm a Student of a Preparatory Medicine Course. But I'm very interested in IT-development, so I spend a lot of my free time studying it.
   <p align="center">Full Stack, Pentester (when I can), and Design lover</h2>
 </div>
