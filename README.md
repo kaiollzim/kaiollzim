@@ -46,14 +46,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div><br>
-
-<div align="center">
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-<div align="center">
-  <p>Made with :heart: and JavaScript.</p>
-  <p>By: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
-                                                                                                                                   
+                                                                                                                  
 [![@kaiollzim's Holopin board](https://holopin.me/kaiollzim)](https://holopin.io/@kaiollzim)
