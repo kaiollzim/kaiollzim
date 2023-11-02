@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Pleased to meet you! I'm <a href="https://github.com/kaiollzim"><i>Kaio</i></a> 😶‍🌫️</h1>
-  <p align="center">💻 Full-Stack Developer with experience in NextJS, TypeScript, MongoDB, Firebase, NodeJS, and Tailwind. I have expertise in modern technologies and am always seeking innovative and efficient solutions. I believe in the importance of commitment and dedication to deliver highquality, impactful projects.
+  <p align="center">💻 Full-Stack Developer with experience in NextJS, TypeScript, MongoDB, Firebase, NodeJS, and Tailwind. I have expertise in modern technologies and am always seeking innovative and efficient solutions. I believe in the importance of commitment and dedication to deliver high quality, impactful projects.
   <p align="center">Pentester (Sometimes) and UI/UX entusiast</h2>
 </div>
 
