@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Pleased to meet you! I'm <a href="https://github.com/kaiollzim"><i>Kaio</i></a> 😶‍🌫️</h1>
+  <h1 align="center">Pleased to meet you! I'm <a href="https://github.com/kaiollzim"><i>Kaio</i></a> 👋</h1>
   <p align="center">💻 Full-Stack Developer with experience in NextJS, TypeScript, MongoDB, Firebase, NodeJS, and Tailwind. I have expertise in modern technologies and am always seeking innovative and efficient solutions. I believe in the importance of commitment and dedication to deliver high quality, impactful projects.
   <p align="center">Pentester (Sometimes) and UI/UX entusiast.</h2>
 </div>
@@ -46,5 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div><br>
+
+<img src="https://raw.githubusercontent.com/kaiollzim/kaiollzim/output/snake.svg" alt="Snake animation" />
                                                                                                                   
 [![@kaiollzim's Holopin board](https://holopin.me/kaiollzim)](https://holopin.io/@kaiollzim)
