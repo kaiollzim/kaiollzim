@@ -46,7 +46,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div><br>
-
-<img src="https://raw.githubusercontent.com/kaiollzim/kaiollzim/output/snake.svg" alt="Snake animation" />
                                                                                                                   
 [![@kaiollzim's Holopin board](https://holopin.me/kaiollzim)](https://holopin.io/@kaiollzim)
