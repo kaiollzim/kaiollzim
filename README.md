@@ -1,19 +1,18 @@
 <div>
   <h1 align="center">Pleased to meet you! I'm <a href="https://github.com/kaiollzim"><i>Kaio</i></a> 👋</h1>
-  <p align="center">💻 Full-Stack Developer with experience in NextJS, TypeScript, MongoDB, Firebase, NodeJS, and Tailwind. I have expertise in modern technologies and am always seeking innovative and efficient solutions. I believe in the importance of commitment and dedication to deliver high quality, impactful projects.
-  <p align="center">Pentester (Sometimes) and UI/UX entusiast.</h2>
+  <h3 align="center">A developer and a computer science undergraduate.</h3>  
 </div>
 
-<div align="center">
-  <a href="https://github.com/kaiollzim">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaiollzim&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiollzim&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+- 💻 Full-Stack developer since 2021.
+- ⚛️ Typescript | React | NodeJS
+- 🎓 BS in Computer Science.
+- 🌱 I’m currently learning **ML and AI**  .
+- 🎯 My passion is finding solutions and developing quality projects.
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kaiolucas/)  
 
-<h3 align="center""> :rocket: &nbsp;My Skills </h3>
+<h3 align="left">Languages and Tools:</h3>  
 
-<div align="center" valign="top"><br>
+<div align="left" valign="top"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
