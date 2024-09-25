@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 <div>
   <h1 align="center">Pleased to meet you! I'm <a href="https://github.com/kaiollzim"><i>Kaio</i></a> 👋</h1>
   <h3 align="center">A developer and a computer science undergraduate.</h3>  
