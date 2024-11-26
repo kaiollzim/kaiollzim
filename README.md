@@ -8,7 +8,6 @@
 - 💻 Full-Stack developer since 2021.
 - ⚛️ Typescript | React | NodeJS
 - 🎓 BS in Computer Science.
-- 🌱 I’m currently learning **ML and AI**  .
 - 🎯 My passion is finding solutions and developing quality projects.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kaiolucas/)  
 
