@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./new_banner.png)
 
 <div>
   <h1 align="center">I'm Kaio.</h1>
