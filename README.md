@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Banner](./banner.png)
 
 <div>
   <h1 align="center">I'm Kaio.</h1>
