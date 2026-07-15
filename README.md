@@ -1,5 +1,3 @@
-![Banner](./new_banner.png)
-
 <div>
   <h1 align="center">I'm Kaio.</h1>
   <h3 align="center">Developer and Entrepreneur.</h3>  
